@@ -39,3 +39,9 @@
 <script src="app.js"></script>
 </body>
 </html>
+<div class="navbar">
+  <div onclick="show('home')">🏠 Home</div>
+  <div onclick="show('gpa')">📊 GPA</div>
+  <div onclick="show('notes')">📝 Notes</div>
+  <div onclick="show('assign')">📚 Assign</div>
+</div>
