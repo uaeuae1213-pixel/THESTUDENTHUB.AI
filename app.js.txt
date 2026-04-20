@@ -37,3 +37,4 @@ function generate(){
   document.getElementById("output").innerText =
   "Assignment on " + topic + " includes introduction, explanation, examples and conclusion.";
 }
+<button onclick="toggleDark()">🌙 Dark Mode</button>
